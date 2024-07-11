@@ -1,0 +1,78 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+
+
+.top-banner {
+    background-image: url(/images/food\ donation.jpeg);
+    background-repeat: no-repeat;
+
+    width: auto;
+    height: 500px;
+    color: white;
+    background-position: center;
+
+
+}
+
+.top-banner h1 {
+    text-align: center;
+    height: 100;
+    width: 400px;
+    margin: auto;
+    width: 50%;
+
+    padding: 10px;
+
+}
+
+.top-banner p {
+    margin: auto;
+    width: 50%;
+
+    padding: 10px;
+}
+
+.donate-now-btn {
+    background-color: #FF5959;
+    color: white;
+
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 450px;
+    width: 50%;
+
+    padding: 10px;
+}
+
+.donate-today-text {
+    margin-top: 100px;
+    text-align: center;
+}
+
+.donate-today-text p {
+    width: 550px;
+    margin-left: 250px;
+}
+
+.tk {
+    display: flex;
+    color: #707070;
+    justify-content: space-between;
+
+
+}
+
+#tk200 {
+    color: #FF5959;
+    border: 1px solid #FF5959;
+    height: 100px;
+    width: 130px;
+    text-align: center;
+
+}
